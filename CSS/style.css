@@ -1,0 +1,45 @@
+.main{
+    width:800px;
+    margin: 0 auto;
+    border: 5px solid aqua;
+    padding: 10px;
+    background-color: lemonchiffon;
+}
+.header{
+    text-align: center;
+    color: #0000fe;
+
+}
+.left{
+    float: left;
+    color: #0000fe;
+    padding-left: 20px;
+
+}
+.right{
+    float: right;
+    color: #0000fe;
+    padding-right: 20px;
+
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th{
+    font-family: 'Patua One', cursive;
+}
+th,td{
+    border: 3px solid grey;
+    text-align: center;
+}
+.typical{
+    background-color: yellow;
+}
+.heading{
+    background-color: goldenrod;
+}
+td{
+    background-color: lavender;
+    font-family: 'Open Sans', sans-serif;
+}
